@@ -1,7 +1,7 @@
 """
 This Analytics Moduls collects, evaluates and presents the Data
 
-It is called upon, when the user picks either "Show Habits Options" or "Analytics".
+It is called upon, when the user picks either "Listing Habits" or "Analytics Module".
 """
 
 from Habit_Tracker_Database import connect_database

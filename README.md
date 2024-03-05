@@ -175,10 +175,10 @@ In this submenu the user may his options for viewing habit's streaks.
 #### 1. List All Habit's Streaks
 This will display all stored habits and their current streak in an aesthetic looking table (thanks to the rich libary)
 
-#### 2. View Longest Streak of Specific Habit
+#### 2. List Longest Streak of Specific Habit
 This will display a list of stored habits to choose from. It then will display the selected habit's longest streak and the last time it was completed. Output like above.
 
-#### 3. View Streak Log of Specific Habit
+#### 3. List Streak Log of Specific Habit
 This will display a list of stored habits to choose from. It then will display the selected habit's streak history. Output like above.
 
 #### 4. Return to Main Menu

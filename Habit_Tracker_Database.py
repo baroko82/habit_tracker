@@ -36,7 +36,7 @@ def create_tables(db):
     db.commit()
 
 
-def connect_database(name="HT_weeks.db"):
+def connect_database(name="HT.db"):
     """
     This function connects to the Database.
 

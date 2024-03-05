@@ -70,8 +70,8 @@ Get the latest version of Python is avaible at [https://www.python.org/downloads
 
 <br> Once the latest Python is installed, you need to install the necessary libraries. <br>
 
-<br>Questionary - Questionary is a Python library for building pretty command line interfaces. 
-<br>Rich - Rich is a Python library for rich text and beautiful formatting in the terminal.
+<br>*Questionary* - Questionary is a Python library for building pretty command line interfaces. 
+<br>*Rich* - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 <br>It gets installed by running the below command. Just type the name without the < > <br>
 ```
@@ -81,8 +81,8 @@ pip install <name>
 ### Packages for Test
 To run the tests, the following libraries are needed. Use the same command listed in the prior section
 
-<br>Pytest - Pytest is a Python testing framework that originated from the PyPy project. It can be used to write various types of software tests, including unit tests, integration tests, end-to-end tests, and functional tests. Its features include parametrized testing, fixtures, and assert re-writing. 
-<br>Freezegun - FreezeGun is a library that allows your python tests to travel through time by mocking the datetime module.
+<br>*Pytest* - Pytest is a Python testing framework that originated from the PyPy project. It can be used to write various types of software tests, including unit tests, integration tests, end-to-end tests, and functional tests. Its features include parametrized testing, fixtures, and assert re-writing. 
+<br>*Freezegun* - FreezeGun is a library that allows your python tests to travel through time by mocking the datetime module.
 
 ## Start Program
 After installing the dependencies and having downloaded the files from this repository, with those being saved in a separate folder. Open your command/terminal window and [cd](https://www.alphr.com/change-directory-in-cmd/) to your downloaded folder. Once that is complete, you can run the programm with:
@@ -119,7 +119,7 @@ pytest
 
 ## Addition or Removal
 #### 1. Add Habit
-Upon running a new, blank version of the program with the**HT.db** file removed. Your first action should be adding a new habit. To do so, you choose the first option from the main menu:
+Upon running a new, blank version of the program with the **HT.db** file removed. Your first action should be adding a new habit. To do so, you choose the first option from the main menu:
 ```
  Addition or Removal
 ```

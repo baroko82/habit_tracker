@@ -28,8 +28,8 @@
       - [5. List Habits by Category](#5-list-by-category)
       - [5. Return to Main Menu](#5-return-to-main-menu)
 
-  * [Analytics Module](#analytics-mod)
-      - [1. List All Habit's Streaks](#1-list-all-habit-s-streaks)
+  * [Analytics Module](#analytics-module)
+      - [1. List All Habit's Streaks](#1-list-all-habits-streaks)
       - [2. List Longest Streak of Specific Habit](#2-list-longest-streak-of-specific-habit)
       - [3. List Streak Log of Specific Habit](#3-list-streak-log-of-specific-habit)
       - [4. Return to Main Menu](#4-return-to-main-menu-1)

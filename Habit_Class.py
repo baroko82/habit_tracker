@@ -10,7 +10,7 @@ class Habit:
         Habit class - for having different habits (objects)
     """
 
-    def __init__(self, name: str = None, periodicity: str = None, category: str = None, database="HT_weeks.db"):
+    def __init__(self, name: str = None, periodicity: str = None, category: str = None, database="HT.db"):
         """
         Parameters:
 

@@ -114,7 +114,7 @@ pytest
 
 
 # Usage
-**FYI**: You can delete the **HT.db** file with pre-defined demo habits [Namely: Swim, Tennis, Tea, Meeting and Study] or the **HT_weeks.db** file with test data of around 35 days.<br>
+**FYI**: You can delete the **HT.db** file with pre-defined demo habits [Namely: Swim, Tennis, Tea, Meeting and Study] or the **HT_weeks.db** file with test data of around 35 days. To swap the used database file, you alter the default in both habit_class.__init__ and habit_tracker_database.connect_database<br>
 
 
 ## Addition or Removal
@@ -131,7 +131,7 @@ Make your Choice (Use arrow keys)
    Remove a Habit
    Delete a Category
 ```
-You then get a promt to enter the necessary information for the habit, namely it's name, it's periodicity and it's category.
+You then get a promt to enter the necessary information for the habit, namely it's name, it's periodicity and it's category. For the category you will get the option to use an exsiting category or a new one.
 
 #### 2. Remove Habit
 With this selection, a list of all stored habits will be display and you can easily navigate with the arrow keys to select the one you want to delete and press enter.

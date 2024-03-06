@@ -154,6 +154,16 @@ The list of all habits is going to be displayed and like before, the user can ch
 
 ## Listing Habits
 In this submenu the user may select filters for listing the stored habits.
+```
+=== OPTIONS FOR LISTING HABITS ===
+Make your Choice (Use arrow keys)
+ » List ALL Habits
+   List DAILY Habits
+   List WEEKLY Habits
+   List MONTHLY Habits
+   List Habits of Category
+   Return to Main Menu
+```
 
 #### 1. List ALL Habits
 This Option will display every habit with their information (Habit Name, Periodicity, Category and Creation Time) in an aesthetic looking table (thanks to the rich libary)
@@ -171,7 +181,15 @@ Lets you return to the main menu.
 
 
 ## Analytics Module
-In this submenu the user may his options for viewing habit's streaks.
+In this submenu the user may pick his options for viewing habit's streaks.
+```
+===== ANALYTIC ===== OPTIONS =====
+Make your Choice (Use arrow keys)
+ » List All Habit's Streaks
+   List Longest Streak of Specific Habit
+   List Streak Log of Specific Habit
+   Return to Main Menu
+```
 
 #### 1. List All Habit's Streaks
 This will display all stored habits and their current streak in an aesthetic looking table (thanks to the rich libary)

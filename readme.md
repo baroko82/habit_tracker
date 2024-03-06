@@ -114,7 +114,7 @@ pytest
 
 
 # Usage
-**FYI**: You can delete the **HT.db** file with pre-defined demo habits [Namely: Swim, Tennis, Tea, Meeting and Study] or the **HT_weeks.db** file with test data of around 35 days. To swap the used database file, you alter the datanase default value in both habit_class.py's init and Habit_Tracker_Database.py's connect_database<br>
+**FYI**: You can delete the **HT.db** file with pre-defined demo habits [Namely: Swim, Tennis, Tea, Meeting and Study] or the **HT_weeks.db** file with test data of around 35 days. To swap the used database file, you alter the database default value in both habit_class.py's init and Habit_Tracker_Database.py's connect_database<br>
 
 
 ## Addition or Removal
@@ -130,6 +130,7 @@ Make your Choice (Use arrow keys)
  » Add a Habit
    Remove a Habit
    Delete a Category
+   Return to Main Menu
 ```
 You then get a promt to enter the necessary information for the habit, namely it's name, it's periodicity and it's category. For the category you will get the option to use an exsiting category or a new one.
 
